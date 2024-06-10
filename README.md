@@ -1,2 +1,5 @@
-# diarized_tts
-A toy project with the aim of getting experience with audio data handling and constructing a pipeline to diarize and transcribe conversations.
+# Diarized Speech-to-Text Pipeline
+A toy project to get experience with audio data handling and construct a pipeline to diarize and transcribe conversations.
+
+- PyAnnote
+- Whisper
